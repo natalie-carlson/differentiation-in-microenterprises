@@ -1,0 +1,624 @@
+,business_activity,assigned_treat,e112_employees1_el,e118_monthly_profit1_el,e117_monthly_revenue1_el,a102_female,a101_age
+0,ordering of clothes shoes and hair accessories,1,2,150.0,350,0,23
+1,rearing and selling,1,0,60.0,150,1,35
+2,selling second hand clothes,0,0,70.0,200,1,28
+3,selling second hand clothes,1,0,200.0,500,1,31
+4,sell clothes,1,0,40.0,90,1,31
+5,public transport driver,1,0,200.0,500,0,25
+6,selling cosmetics,0,0,50.0,120,1,32
+7,tuckshop,0,0,120.0,300,1,22
+8,selling cosmetics,1,1,250.0,500,1,20
+9,selling food take aways,1,1,400.0,3000,1,35
+10,cultivate,1,0,150.0,350,1,30
+11,selling clothes and shoes and accesories,1,0,80.0,250,0,28
+12,supplying goods,1,0,280.0,400,1,34
+13,sowing,1,0,300.0,600,1,30
+14,sell vegetableschips,1,0,30.0,60,0,30
+15,selling rabbits and vegetables,1,0,35.0,150,0,32
+16,baking,0,0,90.0,180,1,23
+17,rearing and selling,1,0,80.0,150,1,32
+18,keeping layers,0,0,80.0,200,1,34
+19,horticulture and work at safaris,0,0,200.0,400,0,20
+20,tuckshop owner,1,0,30.0,80,1,21
+21,sell cakes hairdresser beauty therapy,0,0,70.0,150,1,23
+22,buying and selling,1,0,5.0,35,0,20
+23,buying and selling corn,1,0,80.0,120,0,20
+24,sell eggs,1,0,25.0,75,1,31
+25,roadrunner production,1,0,50.0,350,1,35
+26,hair salon,0,2,200.0,850,1,28
+27,poultry,1,0,150.0,300,1,29
+28,brushmaking,1,0,100.0,200,1,32
+29,selling clothes and weves,1,0,200.0,300,1,28
+30,production of all types of vegetables,1,3,350.0,600,1,23
+31,chicken  rearing,0,0,100.0,200,0,34
+32,carpentry,1,0,250.0,700,1,24
+33,selling second hand clothes,1,0,150.0,250,0,22
+34,selling second hand shoes,0,0,150.0,350,0,31
+35,buying and selling shoes,0,0,60.0,120,0,26
+36,ordering and selling cooking oil,1,1,80.0,250,1,31
+37,welder,1,0,25.0,100,0,21
+38,chicken rearing,0,0,120.0,300,1,26
+39,cross border,1,0,100.0,550,1,34
+40,flea market,1,0,150.0,350,1,32
+41,sell maize and vegetables,1,0,150.0,300,1,24
+42,sell chickens,1,2,300.0,1200,0,35
+43,selling cosmeticskitchenwear and clothes,0,0,95.0,200,1,27
+44,rearing rabbits,0,0,70.0,100,0,26
+45,selling second hand shoes,0,0,80.0,250,0,23
+46,cultivating,1,0,200.0,600,0,26
+47,manager,1,7,600.0,2000,1,31
+48,selling avon products,0,0,45.0,100,1,24
+49,ecocash,1,0,70.0,400,1,27
+50,selling body and head wraps for women,0,0,40.0,300,1,34
+51,selling cosmetics,1,0,90.0,150,1,30
+52,selling shoes,0,0,85.0,200,0,30
+53,vegetable production,1,0,50.0,70,0,31
+54,motor servicing,1,1,1200.0,2000,0,26
+55,buy and sell gas,0,0,200.0,250,0,29
+56,flea market,1,0,90.0,200,0,22
+57,selling doughnuts,0,0,60.0,130,0,26
+58,selling clothes shoes peanut butter,1,0,60.0,160,1,34
+59,importing clothes from sa,1,0,150.0,400,1,22
+60,selling maize and second hand clothing,0,0,150.0,350,1,29
+61,selling clothes,0,0,150.0,500,0,30
+62,keeping roadrunner,1,0,30.0,150,1,34
+63,flea market,1,0,200.0,500,0,31
+64,hardware,1,2,500.0,2000,0,29
+65,selling mackerel,0,0,160.0,400,0,35
+66,poultry rearing,1,1,250.0,700,1,22
+67,bicycle repair,0,0,50.0,100,0,23
+68,carpentry,0,0,100.0,180,0,30
+69,groceries,1,0,50.0,250,0,28
+70,farming,1,0,0.5,20,0,23
+71,carpentry,0,0,150.0,400,0,26
+72,growing of flowers and broilers,1,0,200.0,400,1,34
+73,tuckshop,1,0,50.0,250,1,35
+74,fruit and vegetable market,0,0,80.0,160,1,29
+75,selling second hand goods,1,0,100.0,500,0,34
+76,cars,0,1,400.0,600,1,21
+77,sell cosmetics,1,0,500.0,800,1,29
+78,bicycle repair,0,0,50.0,100,0,23
+79,tuckshop,1,0,50.0,150,1,28
+80,grow and sell chickens,1,0,200.0,550,1,26
+81,peanut butter production,1,0,90.0,140,1,30
+82,dressmaking,1,0,50.0,120,1,30
+83,growing of vegetablestomatoesking onions and pumpkin leaves,1,0,60.0,150,1,28
+84,keeping chickens,1,0,360.0,1120,0,33
+85,buying and selling of bales,1,0,60.0,300,0,32
+86,buying  and selling,1,0,30.0,150,1,30
+87,carpentry,1,0,200.0,500,0,30
+88,hairdressing,0,0,50.0,200,1,24
+89,rearing,1,0,100.0,400,1,22
+90,repairing phones and selling them,0,0,100.0,300,0,34
+91,vegetable and fruit market,0,0,60.0,100,1,20
+92,selling,1,0,1500.0,2000,1,34
+93,selling avon products,1,0,25.0,100,1,21
+94,keeping chickens,1,0,30.0,150,1,33
+95,grow potatoes tomatoes and butternuts,0,0,150.0,250,0,22
+96,buying and selling,1,0,200.0,500,0,33
+97,cellphone and computer repairs,0,0,120.0,180,0,31
+98,selling dishwashers and toilet cleaners,1,0,70.0,120,0,25
+99,rearing and selling,1,0,10.0,50,0,26
+100,rearing and selling free range indigenous chickens,0,0,10.0,20,1,34
+101,manager,1,0,150.0,300,1,33
+102,car wash,1,0,30.0,80,0,22
+103,welding,1,0,45.0,120,0,35
+104,selling clothes and dish towels,0,0,100.0,200,1,30
+105,electronics,0,0,120.0,250,0,32
+106,selling second hand clothes,0,0,250.0,600,1,28
+107,importing clothes,1,0,400.0,1200,1,23
+108,selling shoes,0,1,200.0,400,1,27
+109,vegetables and flowers,0,0,40.0,100,0,25
+110,sell accessoriestelecash,1,0,150.0,250,0,28
+111,driver and manager,1,0,120.0,2000,1,34
+112,flea market,0,0,70.0,250,1,24
+113,flea market,0,0,150.0,400,1,23
+114,tanbits and chickens tearing,0,0,20.0,50,0,34
+115,beauty therapy,1,0,150.0,180,1,22
+116,selling clothes,1,0,50.0,150,1,26
+117,events  planning,1,3,50.0,400,1,22
+118,flea market,1,1,90.0,340,1,26
+119,growing vegetables tomatoes maize and poultry,1,0,96.0,203,1,35
+120,chicken rearing,0,0,180.0,400,1,31
+121,barber,0,0,50.0,100,0,30
+122,am a sole trader,1,0,200.0,850,1,31
+123,hair salon,0,0,90.0,120,1,33
+124,selling second hand shoes,0,1,200.0,450,1,28
+125,buying and selling,0,0,300.0,500,1,32
+126,croppingrearing and selling,0,0,25.0,300,0,25
+127,barber,0,0,50.0,100,0,30
+128,selling agro chemicals,1,1,800.0,2500,0,24
+129,selling eggs,0,0,200.0,300,0,31
+130,chicken rearing,0,0,80.0,200,1,34
+131,sell roadrunners,0,0,150.0,250,1,33
+132,selling agrochemicals,0,1,250.0,1500,0,29
+133,draw plans,0,2,150.0,600,1,21
+134,chicken rearing,1,0,140.0,300,0,23
+135,farming and selling,1,0,300.0,600,0,27
+136,selling dry foods,1,0,70.0,200,0,33
+137,chicken rearing,0,0,80.0,200,1,24
+138,grow green vegetables tomatoes beans and do poultry as well,0,0,20.0,60,0,35
+139,fruit and vegetable market,1,0,250.0,500,0,35
+140,sell eggs,0,0,35.0,140,0,24
+141,hairdressing,1,1,250.0,310,1,30
+142,i sell,1,1,150.0,400,1,24
+143,cobraclothes,0,0,50.0,100,1,26
+144,wood machine and manufacturing,1,2,250.0,400,0,28
+145,selling tomatoes rearing chickens poultry and piggery,1,0,70.0,180,1,33
+146,flea market,1,0,70.0,150,1,30
+147,keeping layers,0,0,80.0,180,1,33
+148,ordering cosmetics kitchenware and clothes,1,0,10.0,50,1,32
+149,keeping chickens,1,2,280.0,300,1,22
+150,buying and selling used oil,1,0,80.0,250,1,28
+151,crop production of tomatoes cucumbers and butternut,1,0,30.0,100,0,24
+152,growing of soya beans and maize also do markerting gardening,0,0,120.0,350,1,23
+153,buying and selling clothes,1,0,200.0,300,1,25
+154,selling chickens,1,0,100.0,550,1,33
+155,poultry  producer,1,0,100.0,170,1,29
+156,buying and selling,1,0,200.0,450,1,26
+157,selling second hand clothes,0,0,450.0,1000,0,31
+158,selling doughnuts,1,0,30.0,60,1,28
+159,cosmetics,0,0,100.0,200,1,32
+160,tuckshop,0,0,100.0,400,1,35
+161,ecocash,1,0,60.0,800,1,24
+162,solarstove batteryclothes sale,1,0,190.0,250,1,34
+163,buying and selling,0,2,200.0,650,0,30
+164,rabbit keeping,0,0,30.0,30,0,34
+165,repairing computers,0,0,250.0,350,0,31
+166,growing ang selling chickens,1,0,100.0,250,0,25
+167,chicken run,1,0,80.0,100,0,20
+168,selling clothes,1,0,100.0,400,1,30
+169,buying and selling,1,0,20.0,50,0,20
+170,video filming,1,0,100.0,1200,0,24
+171,importing beverages,1,0,300.0,1500,1,25
+172,printing and selling tshirts,0,2,350.0,450,0,28
+173,buy and sell eggs,1,0,150.0,300,0,20
+174,tuckshop,1,0,100.0,300,1,21
+175,farming and selling,0,0,130.0,200,0,21
+176,selling cellphone spares and accessories,0,0,150.0,300,0,22
+177,dance training for school students,1,1,200.0,300,1,35
+178,selling,1,0,100.0,600,0,25
+179,vegetable production,0,0,50.0,50,0,26
+180,tshirt printing,1,0,300.0,400,0,25
+181,computer repairs cellphone repairs and dish installation,1,2,350.0,500,0,31
+182,buying and selling of perfumes,0,0,250.0,500,0,28
+183,vegetable productioon,0,0,80.0,120,0,35
+184,security services,0,5,100.0,1000,0,32
+185,tiler,1,0,150.0,160,0,31
+186,buying and selling,1,2,300.0,600,0,24
+187,sales consultancy,1,0,100.0,120,0,27
+188,barbershop,1,3,400.0,700,0,26
+189,repairing cellphones,0,0,200.0,240,0,20
+190,chicken rearing,1,0,200.0,400,0,30
+191,selling,1,0,800.0,1500,0,29
+192,selling,1,0,20.0,80,0,34
+193,seling vegetables,0,0,60.0,100,1,20
+194,feeding and marketing,1,0,120.0,250,0,23
+195,barber,0,0,60.0,80,0,22
+196,chicken rearing,0,0,180.0,400,0,26
+197,construction,1,2,1000.0,3000,0,31
+198,flea market,1,0,120.0,350,1,31
+199,owner,0,2,500.0,1500,0,34
+200,mechanics,0,0,200.0,200,0,26
+201,selling shoes,0,0,80.0,250,0,34
+202,import groceries and cosmetics,1,0,250.0,700,1,21
+203,sell lettuce,1,0,160.0,240,1,34
+204,design and make clothes,1,1,200.0,600,1,30
+205,goat rearing,1,2,200.0,600,1,28
+206,cellphone repair and accessories,1,4,2000.0,8000,0,31
+207,rabbit rearing,0,0,60.0,60,0,25
+208,butchery,1,2,400.0,2500,0,21
+209,kids entertaiment,1,0,300.0,700,1,25
+210,selling timber,0,0,70.0,130,0,27
+211,snack making,1,1,100.0,200,1,26
+212,cultivating,1,0,90.0,150,1,26
+213,bells,1,0,50.0,100,1,35
+214,cross  border,1,0,300.0,400,1,27
+215,hairdresser,1,0,20.0,20,1,29
+216,selling,0,0,120.0,390,1,34
+217,rearing chicken,1,0,70.0,200,1,25
+218,sell broilers,1,0,300.0,600,1,31
+219,rearing only,1,0,80.0,580,1,27
+220,selling bedding,1,0,100.0,300,1,32
+221,selling second hand clothes,0,0,80.0,250,1,28
+222,furniture,1,1,120.0,120,0,31
+223,chicken rearing,1,0,90.0,170,0,35
+224,barber,0,0,100.0,150,0,28
+225,flea market,1,0,100.0,250,1,27
+226,fruit market,0,0,120.0,200,1,34
+227,rearing chickens,1,0,166.0,500,0,35
+228,flea market,0,0,200.0,400,0,32
+229,small scale retailing and rearing chickens poultry,0,0,90.0,250,1,34
+230,canteen,1,1,180.0,500,0,25
+231,clothes,1,2,800.0,3000,0,27
+232,crop production,1,0,280.0,400,0,30
+233,importing gadgets from sa,0,0,300.0,800,0,26
+234,beer selling,1,0,300.0,1000,0,27
+235,selling vegetables fruits and maize,1,0,100.0,200,1,31
+236,chicken rearing,1,0,300.0,600,1,35
+237,vegetable production,0,0,45.0,50,1,28
+238,chicken rearing,1,0,300.0,700,1,30
+239,buying and selling mealie meal and cooking oil,0,0,30.0,60,1,34
+240,tailor,1,0,50.0,500,0,32
+241,cultivate,0,0,10.0,30,1,29
+242,buying and selling,1,0,40.0,120,1,31
+243,ecocash,1,0,100.0,2000,1,32
+244,flea market,0,0,60.0,180,1,27
+245,media consultancy,1,0,200.0,500,0,30
+246,selling phone accessories and barber,1,0,40.0,100,0,28
+247,selling,1,0,200.0,400,1,33
+248,i do vegetables tomatoes and onions,1,0,40.0,150,0,25
+249,barber,0,0,30.0,30,0,24
+250,managing,1,4,600.0,1600,0,26
+251,media services,1,0,150.0,250,0,28
+252,sell chickens,1,0,260.0,500,0,20
+253,buying and selling,1,0,150.0,500,0,29
+254,poultry and horticulture,1,0,300.0,600,0,26
+255,hairdressing,1,0,50.0,150,0,27
+256,selling,1,3,200.0,400,1,20
+257,manager,1,1,250.0,1500,0,26
+258,chicken rearing,0,0,300.0,600,1,30
+259,tuckshop grocieries,1,0,100.0,250,0,23
+260,buying and selling,1,0,0.0,30,1,32
+261,breed free range indigenous chickens,0,0,450.0,550,0,24
+262,importing all household goods,0,0,280.0,500,1,30
+263,poultry,1,0,140.0,300,0,28
+264,selling clothes,0,0,40.0,150,0,34
+265,hairdresser,1,0,100.0,180,1,32
+266,selling gas,0,0,80.0,300,0,28
+267,sell chicken heads and dishes,0,0,60.0,80,1,30
+268,buying and selling,0,0,100.0,200,0,27
+269,selling vegetales,0,0,40.0,150,1,20
+270,flea market,1,0,150.0,400,1,35
+271,dressmaking,1,0,180.0,300,1,29
+272,dressmaking,0,0,150.0,300,1,33
+273,owner,1,0,70.0,300,1,31
+274,breed chickens,1,1,150.0,500,0,34
+275,take away,0,2,380.0,920,1,21
+276,shoes and clothes,1,0,250.0,500,1,27
+277,design leather  products,1,0,200.0,300,0,34
+278,growing and selling maize groundnuts and roundnuts,1,0,400.0,950,1,26
+279,chicken rearing,0,0,80.0,200,0,26
+280,selling,1,0,50.0,150,1,32
+281,importing sa products,1,0,500.0,1000,1,32
+282,selling,1,0,100.0,200,1,30
+283,buying and selling,1,0,350.0,700,1,31
+284,vegetable market,0,0,50.0,80,1,30
+285,selling,1,0,200.0,400,1,32
+286,food court,1,1,200.0,500,1,35
+287,selling second hand clothes,0,0,80.0,180,1,34
+288,selling burgers,1,0,250.0,500,0,27
+289,growing vegetables butternut and beans,1,0,100.0,150,1,29
+290,cross border trading,1,0,300.0,700,0,25
+291,baking of cakes,0,0,200.0,350,1,31
+292,small groceries,1,0,50.0,250,1,34
+293,typing photocopying  selling lp gas,1,0,500.0,700,0,26
+294,buy and sell beers,1,0,500.0,1000,1,27
+295,all activities until selling,1,0,110.0,200,0,32
+296,tailor,1,0,200.0,350,1,29
+297,buy and sell clothes,1,0,400.0,600,1,25
+298,gas filling,1,1,50.0,1200,1,34
+299,detergents consulting,1,15,800.0,5300,0,26
+300,pottery,0,1,400.0,400,1,28
+301,chicken rearing,0,0,90.0,200,1,30
+302,plumbing and hiring of pa systemm,0,0,150.0,300,0,20
+303,indigenous chicken production,0,0,80.0,120,1,33
+304,tuckshop,0,0,120.0,500,0,28
+305,vegetable market,0,0,40.0,70,1,28
+306,tuckshop,1,1,200.0,2000,1,31
+307,bells,0,0,10.0,150,0,34
+308,branding,0,2,1500.0,3400,0,34
+309,chicken rearing,0,0,100.0,200,0,29
+310,keeping layers,0,0,100.0,200,0,32
+311,hair salon,1,0,160.0,200,1,21
+312,started creche,1,1,150.0,500,1,35
+313,tuckshop,1,0,100.0,500,1,22
+314,keeping rabbits,0,0,50.0,50,0,26
+315,horticulture,1,0,120.0,200,0,26
+316,selling maize and tomatoes brick moulding,1,0,200.0,500,0,35
+317,farming and moulding clay pots,1,0,60.0,120,1,33
+318,selling  food,1,2,150.0,550,1,23
+319,chicken rearing,1,0,140.0,300,1,23
+320,selling vegetables,0,0,150.0,600,1,28
+321,airtime business,0,0,80.0,200,0,29
+322,repairing cellphones,0,0,100.0,180,0,25
+323,tuckshop,0,0,120.0,400,0,24
+324,poultry,1,3,100.0,700,1,34
+325,buying n selling  bales,1,0,100.0,300,1,32
+326,operations,1,2,1200.0,3000,0,31
+327,clothes,0,0,200.0,700,1,27
+328,sheets,0,0,0.0,0,1,30
+329,selling shoes,0,0,75.0,200,0,28
+330,selling mobile phone credit,0,0,10.0,100,1,35
+331,hair salon,1,0,20.0,50,1,35
+332,clothes and dry foods,1,0,200.0,400,1,34
+333,cultivate,0,2,50.0,150,0,30
+334,flea market,1,0,100.0,250,1,26
+335,rearing and selling,1,1,150.0,300,1,28
+336,importing beverages,1,0,350.0,1000,1,27
+337,poultry,1,0,100.0,350,1,31
+338,butchery,1,0,200.0,500,1,26
+339,buying and selling footwear,1,1,150.0,200,0,33
+340,airtime wholesale,0,0,150.0,2500,0,35
+341,making homemade pots,0,0,60.0,120,0,24
+342,bells,1,0,25.0,50,0,33
+343,peas and vegs,0,0,15.0,40,0,31
+344,mechanics,0,0,150.0,200,0,22
+345,selling laptops,0,0,150.0,300,0,24
+346,buying and selling of sweets,1,0,80.0,180,0,34
+347,i sell clothes,1,0,20.0,300,1,25
+348,nursery school,1,1,250.0,700,1,31
+349,shoe manufacturing,1,0,80.0,150,1,29
+350,selling popped corn,0,0,350.0,1050,1,21
+351,sellimg vegs and legumes,0,0,40.0,200,0,32
+352,catering,0,0,100.0,200,1,25
+353,selling hair acessories and beauty products,0,0,10.0,35,1,20
+354,beautician,1,0,27.0,80,1,31
+355,sell broiler,1,0,200.0,500,1,33
+356,selling popped corn,1,0,600.0,1500,0,28
+357,detergents n bedding sales,1,0,70.0,180,1,24
+358,sausage production,1,2,30.0,200,0,26
+359,selling,0,0,70.0,150,0,35
+360,rearing rabbits,1,0,120.0,120,0,26
+361,producing,1,0,45.0,100,0,32
+362,food court,0,1,150.0,400,1,25
+363,making peanut butter,0,0,65.0,180,1,32
+364,manager,1,1,200.0,420,1,24
+365,buying n selling hair n other accessories,1,0,10.0,50,1,33
+366,manager,1,1,150.0,300,1,31
+367,layers n veggie products,1,1,80.0,350,1,35
+368,i do popcorns,1,1,50.0,400,1,27
+369,chicken rearing,0,0,180.0,400,0,32
+370,hair dressing,1,0,80.0,80,1,22
+371,fruit and vegetable market,0,0,40.0,70,1,28
+372,buying and selling,1,1,300.0,900,1,32
+373,making wash soap,0,0,100.0,180,0,31
+374,carpentry,1,1,200.0,500,0,34
+375,chicken rearing,1,0,200.0,500,1,25
+376,selling clothes and shoes vegetable farming,1,0,250.0,450,1,20
+377,computer  n cell accesories,1,1,400.0,1200,1,25
+378,buying and selling,1,0,30.0,40,1,28
+379,selling second hand clothes,0,0,100.0,180,0,30
+380,internet cafe,1,1,100.0,450,1,22
+381,vegetable production,0,0,80.0,220,0,21
+382,buying and selling of groceries and clothes,1,0,400.0,700,0,24
+383,buy and sellsubscription dstv,1,3,1800.0,3000,0,32
+384,rearing free range indigenous chickens and casual labor,0,0,10.0,20,0,24
+385,electronics market,1,0,200.0,500,0,28
+386,growing vegetables,1,1,30.0,150,0,28
+387,manufacturing,1,0,120.0,350,1,26
+388,rearing and selling,0,0,0.0,60,0,34
+389,carpentry,0,0,200.0,400,0,33
+390,poultry free range indigenous chickens,1,0,40.0,100,1,30
+391,hot culture,0,4,2300.0,4000,0,32
+392,poultry and horticulture,1,0,240.0,300,0,24
+393,sell foodclothes and shoes,1,0,50.0,300,1,34
+394,secretarial consultancy,0,2,500.0,2000,0,34
+395,motor mechanics,1,0,400.0,400,0,30
+396,hair salon,1,0,15.0,40,1,27
+397,financial consultant,1,0,300.0,750,0,26
+398,carpentry,1,0,300.0,600,0,32
+399,selling materialscloth,1,0,300.0,700,1,26
+400,buying and selling,0,0,145.0,345,1,30
+401,flea market,0,0,120.0,250,1,31
+402,i sell directly,1,1,100.0,400,1,21
+403,farming and selling,1,0,10.0,50,1,33
+404,chicken rearing,0,0,80.0,300,1,30
+405,sewing,1,2,60.0,150,1,34
+406,importing furniture and electric gadgets,1,0,700.0,1800,0,25
+407,hardware,0,0,300.0,1300,0,34
+408,vegetables,0,0,50.0,40,0,21
+409,beauty therapy,1,0,250.0,300,1,34
+410,farming and selling,1,0,33.0,50,1,31
+411,ecocash,1,0,50.0,500,1,30
+412,keeping chickens,1,0,80.0,200,1,21
+413,grocery,1,0,3000.0,8000,1,33
+414,buying and selling of sweets clothes chicken cuts,1,0,50.0,80,1,26
+415,piggery and chicken rearing,1,0,25.0,60,0,22
+416,own a tuckshop,0,1,250.0,550,0,24
+417,keeping layers,1,0,80.0,200,0,27
+418,selling airtime,0,0,150.0,350,0,29
+419,selling laptops and accessories,1,0,350.0,1200,1,26
+420,buying and selling,1,0,50.0,300,1,35
+421,selling vegetables,1,0,80.0,150,1,31
+422,selling cellphone accessories,0,0,50.0,120,1,32
+423,poultry and table charm sales,0,1,400.0,700,1,29
+424,make and sell uniforms,1,0,300.0,500,1,29
+425,hair salon,1,0,100.0,150,1,29
+426,vegetable farming tomatoes and onions,0,0,10.0,25,0,29
+427,hairdresser,1,0,250.0,300,1,35
+428,feeding,1,0,500.0,1000,1,30
+429,buying and selling,1,0,30.0,50,0,35
+430,peas vegetables beans carrots,1,0,90.0,200,1,24
+431,fruit and vegetable  market,1,0,80.0,150,1,25
+432,photographer,1,0,200.0,300,0,26
+433,buying and selling,1,0,40.0,70,1,33
+434,i do green vegetables tomatoes onions and beans,1,0,100.0,200,1,27
+435,clothes,0,0,100.0,225,1,26
+436,machine operator,1,0,70.0,200,0,24
+437,keeping free range indigenous chickens,1,0,350.0,500,1,22
+438,decorating,1,0,200.0,500,1,31
+439,keeping broilers,1,0,50.0,150,1,31
+440,selling clothes and shoes,1,2,400.0,700,0,29
+441,flea markets,1,0,350.0,400,1,23
+442,ploughing keeping chickens,1,0,300.0,500,1,25
+443,chicken rearing,0,1,220.0,480,1,33
+444,photocopying,0,1,70.0,280,1,32
+445,selling eggs,1,6,300.0,500,0,28
+446,buying and selling,1,0,600.0,1000,1,26
+447,cultivate,1,0,10.0,30,0,28
+448,buying and selling,1,0,100.0,150,1,34
+449,clothingaccesories,1,0,50.0,85,1,23
+450,selling,0,0,150.0,250,0,20
+451,chef events manager,1,0,150.0,350,0,25
+452,flea market,0,0,100.0,250,0,30
+453,flea market,0,0,50.0,120,1,33
+454,barber,0,0,80.0,120,0,20
+455,clothes n kitchen ware,1,0,200.0,350,1,29
+456,fix computers,1,1,700.0,1600,0,33
+457,poultry,1,0,100.0,175,0,31
+458,keeping roadrunner,0,0,25.0,25,0,31
+459,horticulture and selling of sweets at schools,1,0,30.0,50,1,23
+460,shoe making,1,0,350.0,600,0,34
+461,photocopying and typing,1,1,150.0,300,1,20
+462,selling kitshenware,1,0,80.0,180,1,34
+463,flea market,0,0,60.0,150,1,27
+464,pottery,0,0,75.0,100,1,20
+465,vegetable production,0,0,40.0,60,1,27
+466,sewing,0,0,250.0,400,1,30
+467,buying and selling fishbells,0,0,100.0,300,1,22
+468,beauty therapy,1,0,500.0,700,1,31
+469,making peanut butter,0,0,240.0,300,1,25
+470,hairdressing,0,0,50.0,75,1,26
+471,hair salon,0,0,160.0,200,1,26
+472,supply info systems machinery,1,0,800.0,1800,1,32
+473,ecocash and selling soyamince,0,1,40.0,300,1,26
+474,buying and selling,0,0,200.0,250,1,27
+475,rearing chickens poultry and making peanut butter,1,0,80.0,150,1,35
+476,selling hairpieces,1,1,100.0,300,1,21
+477,selling clothes from south africa,0,1,180.0,400,0,29
+478,buying and selling,1,0,200.0,500,1,28
+479,buying and selling,1,0,100.0,200,1,35
+480,tuckshop,0,0,80.0,400,1,24
+481,flea market,0,0,80.0,150,1,30
+482,vendor,0,0,30.0,70,1,25
+483,bricklayer,0,0,200.0,200,0,29
+484,carpentry,1,1,2000.0,5000,0,27
+485,supervision,1,0,300.0,500,0,31
+486,vendor,0,0,30.0,70,1,26
+487,car wash,0,0,150.0,180,0,34
+488,baking and selling groceries,0,0,600.0,1500,1,34
+489,bake and sell confectionary stuff,1,1,150.0,300,1,35
+490,selling vegetables,0,0,80.0,150,1,29
+491,selling clothes and chickens,1,0,350.0,700,1,20
+492,poultry rearing and selling chickens,1,0,300.0,600,1,20
+493,selling second hand clothes,0,0,150.0,280,0,22
+494,carpentry,0,0,80.0,150,0,24
+495,carpentry,1,0,150.0,200,0,31
+496,rabbit rearing,0,0,45.0,50,0,20
+497,sell chicks,1,1,300.0,700,0,30
+498,rearing,1,0,60.0,300,0,26
+499,flea market,0,0,120.0,300,1,23
+500,grow tomatoesvegetables and cucumber,1,0,50.0,250,1,28
+501,buying and selling soya mince and dried fish,1,0,250.0,800,1,31
+502,moulding pillars and lindels,1,1,500.0,3000,0,35
+503,catering,1,2,100.0,600,1,33
+504,manager,1,2,70.0,150,0,25
+505,off layers and vegs,0,0,35.0,90,0,20
+506,panel beating,0,0,200.0,250,0,24
+507,poultry,1,0,200.0,800,1,32
+508,selling kitchenware,0,0,60.0,150,1,29
+509,broiler rearing,1,0,700.0,1000,0,24
+510,selling cooked food takeaway,0,0,100.0,180,1,29
+511,cropping and selling,1,0,20.0,35,0,29
+512,chicken rearing,0,0,120.0,300,0,31
+513,selling,1,0,150.0,600,0,24
+514,grow tomatoes and onions,1,0,150.0,400,0,26
+515,poultry,1,0,25.0,200,0,20
+516,sell cosmetics,1,0,35.0,66,0,35
+517,baking cakes,0,0,90.0,180,1,22
+518,i sell cash,1,0,250.0,900,0,28
+519,poultry and table charm sales,0,1,400.0,700,1,29
+520,making peanut butter,1,0,75.0,180,1,26
+521,i breed poultry,1,0,50.0,200,1,30
+522,sell take aways,1,0,300.0,600,1,32
+523,selling clothes,1,0,20.0,100,1,30
+524,flea market,0,0,120.0,250,1,26
+525,selling glasses plates makings samoosas and hairdressing,1,0,300.0,650,1,35
+526,sowing,1,0,50.0,100,1,31
+527,seling second hand clothes,0,0,40.0,100,1,32
+528,selling only,1,0,100.0,500,1,35
+529,tomatoes onion and vegs,1,0,30.0,90,0,31
+530,decoration,1,0,80.0,250,1,21
+531,buying and selling,1,0,200.0,600,0,32
+532,welding,0,0,70.0,200,0,30
+533,selling second hand clothes,0,0,50.0,100,1,27
+534,sewing and selling,1,1,8.0,1200,1,21
+535,carpentry,0,0,200.0,450,0,24
+536,teaching,1,0,150.0,1000,0,33
+537,manager,1,1,150.0,400,0,32
+538,selling beverages,1,0,400.0,1200,0,29
+539,buying and selling cattle,1,0,200.0,300,0,20
+540,decorate,1,1,200.0,1500,1,28
+541,carpentry,0,0,150.0,180,0,21
+542,mechanics,0,2,250.0,600,0,35
+543,cellphone repairs,0,0,100.0,170,0,26
+544,selling,1,0,35.0,60,1,22
+545,rearing and selling,1,0,30.0,50,0,35
+546,cross border trading,0,0,350.0,1000,1,35
+547,selling shoes,0,0,180.0,350,1,27
+548,managing,1,1,350.0,700,0,28
+549,selling of clothes shoes sewing accessories,1,0,100.0,400,0,33
+550,cellphone repairs,1,0,200.0,250,0,25
+551,tyre mending,1,5,300.0,1000,0,33
+552,carpentry,1,1,500.0,800,0,26
+553,selling kitchenware,1,0,30.0,50,1,35
+554,provide gaming services internet cafe services,1,0,100.0,1800,0,30
+555,welder,1,1,300.0,400,0,33
+556,hardware,0,0,100.0,200,0,35
+557,flea market,0,0,75.0,200,1,24
+558,selling,0,0,10.0,30,1,33
+559,sell eggs,0,0,40.0,70,0,30
+560,flea market,1,0,140.0,250,1,34
+561,selling second hand shoes,1,0,120.0,400,0,22
+562,welding,1,0,180.0,350,0,22
+563,welding,1,1,200.0,300,0,32
+564,selling floor polish and brooms,1,0,90.0,160,1,29
+565,administration operations management,1,2,400.0,1500,0,28
+566,rabbit rearing,1,0,60.0,70,1,26
+567,tyre trading,1,7,500.0,3000,1,27
+568,beer selling,1,0,300.0,1000,0,27
+569,chicken rearing,1,0,200.0,500,0,26
+570,flea market,0,0,100.0,250,1,23
+571,poultry and horticulture,1,0,300.0,1200,1,21
+572,chicken rearing,1,0,300.0,600,0,31
+573,video filming,1,0,350.0,350,0,26
+574,manage the livestock,1,1,100.0,300,0,31
+575,carpentry,0,0,150.0,180,0,32
+576,mechanics,1,1,400.0,580,0,24
+577,coffin maker,0,1,300.0,800,0,32
+578,sell second hand clothes,1,1,100.0,200,1,24
+579,vegetable farming tomatoes and green leaf vegetables,0,0,100.0,200,0,34
+580,selling motor spares,1,0,300.0,800,0,29
+581,chicken rearing,1,0,250.0,500,0,23
+582,indigenous chicken producton,0,0,140.0,300,0,23
+583,carpentry,0,0,200.0,475,0,25
+584,buying and selling,1,0,150.0,350,0,24
+585,sewing,0,0,250.0,400,1,24
+586,knitting,0,0,40.0,100,1,30
+587,baking,1,0,50.0,100,1,35
+588,flea market,0,0,65.0,150,1,30
+589,piggery,1,1,200.0,350,1,25
+590,making peanut butter,0,0,50.0,120,0,32
+591,operator,1,0,50.0,150,0,27
+592,selling eggs,0,0,60.0,120,0,20
+593,tomatoes and vegetables,1,0,80.0,160,1,24
+594,buying and selling,1,0,150.0,150,1,32
+595,sell chicks,1,1,600.0,1500,1,31
+596,buying and selling,0,0,200.0,400,1,21
+597,selling second hand clothes,0,0,70.0,180,1,30
+598,flea market,0,0,100.0,160,1,23
+599,hair salon,1,1,70.0,120,1,27
+600,manufacture,1,3,300.0,900,1,35
+601,baking cakes,1,0,90.0,180,1,20
+602,baking,0,0,100.0,200,1,24
+603,selling hair pieces,1,0,250.0,500,1,34
+604,tuckshop,1,1,200.0,1500,0,27
+605,selling pharmaceuticals,1,2,600.0,2500,0,27
+606,financial consultant,1,0,300.0,750,0,27
+607,poultry,0,0,200.0,700,1,32
+608,producer,1,0,5.0,40,0,26
+609,carpentry,0,0,100.0,220,0,23
+610,production of broilers,1,0,150.0,450,0,31
+611,flea market,0,0,90.0,200,0,28
+612,administration,1,5,900.0,10000,0,31
+613,cellphones n computer  sales,1,0,200.0,600,0,26
+614,buying n selling peanuts n other,1,1,200.0,700,1,34
+615,rearing chickens,0,0,75.0,150,1,26
+616,grocery,1,0,250.0,500,0,35
+617,selling computer consumables,1,0,100.0,250,1,27
+618,clothes,0,0,375.0,800,1,29
+619,cultivate,1,0,30.0,70,1,20
+620,flea market,1,0,120.0,300,1,24
+621,mobile selling of clothes,1,0,350.0,850,1,29
+622,sell chicks,0,0,300.0,800,1,20
